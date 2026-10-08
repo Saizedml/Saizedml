@@ -16,7 +16,7 @@ I'm based in Melbourne and looking for **AI and machine learning engineering rol
 Research internship at the Cisco–La Trobe Centre for AI and IoT. A prototype that flags possible weapons and falls in CCTV footage for human review, tested on cameras and sites it had never seen.
 
 - **Detection:** caught 75% of weapon incidents (36 of 48) on held-out test cameras.
-- **Honest evaluation:** false alerts rose 4–9× at an unseen site. The repo documents why and what would fix it.
+- **Honest evaluation:** false alerts rose 5-7× at an unseen site. The repo documents why and what would fix it.
 - **My role:** I led the approach, dataset selection, evaluation protocol and success criteria, reviewed the results and footage myself, and made every go/no-go decision. AI coding agents (OpenAI Codex) wrote most of the code under that gated process.
 
 `Python` `PyTorch` `RF-DETR` `Qwen3-VL` `pose estimation` `multi-object tracking` `FastAPI`
