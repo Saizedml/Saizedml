@@ -1,5 +1,4 @@
-# Hi, I'm Max Blunden-Slusarski
-
+# Hi, I'm Max Blunden
 I'm finishing a Master of Artificial Intelligence at La Trobe University (graduating November 2026, High Distinction average). Before moving into AI, I spent nine years as a business analyst, so I'm used to turning loose requirements into measurable outcomes and explaining results to the people who have to act on them.
 
 I'm based in Melbourne and looking for **AI and machine learning engineering roles**.
